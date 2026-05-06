@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm Rohit Jadhav
 
-* Backend Developer with 2.6+ years of experience in Java, Spring Boot, and RESTful API development
+* Backend Developer with 3+ years of experience in Java, Spring Boot, and RESTful API development
 
 * Experience in designing scalable backend systems using layered architecture and clean coding practices
 
