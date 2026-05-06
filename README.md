@@ -1,8 +1,28 @@
 
 ## 👋 Hi, I'm Rohit Jadhav
 
-* 💻 **Who I am:** Backend Developer with 2.6+ years of experience building scalable Java applications using Spring Boot and RESTful APIs
-* 🚀 **Currently working on:** Production-ready backend systems, microservices architecture, and API performance optimization
-* 🛠 **Tech stack:** Java, Spring Boot, Spring Security (JWT), Hibernate, MySQL, Docker, Git, REST APIs
-* 📫 **How to reach me:** [rohitjadhav20181920@gmail.com](mailto:rohitjadhav20181920@gmail.com) | LinkedIn: rohit-jadhav-7a60ab213
+* Backend Developer with 2.6+ years of experience in Java, Spring Boot, and RESTful API development
+
+* Experience in designing scalable backend systems using layered architecture and clean coding practices
+
+* Currently working on building production-ready applications and improving microservices architecture skills
+
+* Strong understanding of Spring Security (JWT), database optimization, and API performance tuning
+
+* Hands-on experience with MySQL, Docker, Git, and application monitoring tools
+
+* Familiar with Agile development, debugging, and production support
+
+* Currently exploring:
+
+  * Microservices architecture
+  * Cloud deployment (AWS basics)
+  * System design fundamentals
+
+* How to reach me:
+
+  * Email: [rohitjadhav20181920@gmail.com](mailto:rohitjadhav20181920@gmail.com)
+  * LinkedIn: rohit-jadhav-7a60ab213
+  * Mobile No : +91-7066528759
+
 
